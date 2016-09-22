@@ -1,7 +1,7 @@
 
-TERMS OF USE AND PRIVACYA 
+TERMS OF USE AND PRIVACY
 
-LITTLE COMPANY (ALC).
+A LITTLE COMPANY (ALC).
 In accordance with the Ley Orgánica 15/1999, de Protección de Datos de Carácter Personal (LOPD) in spain,
 and its implementing regulations, the head of the mobile application, pursuant to the provisions of art.
 5 and 6 the (LOPD), inform all users of the application, that at no time will any personal or request any data, 
